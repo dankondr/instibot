@@ -1,2 +1,3 @@
-# instibot
-The Bot framework for ambitious goals.
+# Instibot
+
+Asynchronous MVC framework for telegram bots.
